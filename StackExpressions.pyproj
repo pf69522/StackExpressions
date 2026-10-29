@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3f08fda5-6aed-451f-8b52-96b7cddd9356</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>postfix_evaluator.py</StartupFile>
+    <StartupFile>infix_converter.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="infix_converter.py" />
     <Compile Include="postfix_evaluator.py" />
     <Compile Include="stack.py" />
     <Compile Include="StackExpressions.py" />
