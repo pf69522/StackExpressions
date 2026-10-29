@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3f08fda5-6aed-451f-8b52-96b7cddd9356</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>StackExpressions.py</StartupFile>
+    <StartupFile>stack.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
